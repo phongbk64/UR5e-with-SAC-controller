@@ -22,3 +22,6 @@
 
 # Redundant archives
 **/*.rar
+
+# Local report document
+PHONG PROJECT 6DOF_UR5.doc
