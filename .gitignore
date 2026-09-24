@@ -1,0 +1,24 @@
+﻿# MATLAB and Simulink generated files
+**/slprj/
+**/*.slxc
+**/*.asv
+**/*.autosave
+**/codegen/
+**/checkpoints/
+
+# Python environment and cache
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/.pytest_cache/
+
+# Operating-system and editor files
+**/.DS_Store
+**/Thumbs.db
+**/~$*
+**/~WRL*.tmp
+**/*.tmp
+
+# Redundant archives
+**/*.rar
